@@ -1,0 +1,5 @@
+#!/bin/bash
+# This shell script will make it easier to add, commit, and push
+# with one command
+
+git add . && git commit -m "$1" && git push
