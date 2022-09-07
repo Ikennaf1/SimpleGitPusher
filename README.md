@@ -10,9 +10,9 @@ and find that typing out three commands in order to make that one little push is
 Note: This utility is written for the **unix bash shell**.
 
 #### You can use this utility by
-1. Make sure you have the utility and you know the path to the **mypush** file.
-2. If, for example, you have the **mypush** file in your current working folder, you can run:  
-`./mypush "My commit message"` where *My commit message* is your commit message.   
+1. Make sure you have the utility and you know the path to the **push** file.
+2. If, for example, you have the **push** file in your current working folder, you can run:  
+`./push "My commit message"` where *My commit message* is your commit message.   
 This will add all the updated files, commit using the commit message provided,  
 and push to your pre-defined origin.
 
